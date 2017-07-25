@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GalleryPicker</string>
+    <string name="toolbar_title">Tap to select</string>
+    <string name="no_images_found">No images found. To take a photo, tap the icon at the top of your screen.</string>
+    <string name="button_next">Next</string>
+    <string name="action_take_photos">Take photos</string>
+    <string name="toolbar_title_selected_items" formatted="false">%d selected</string>
+    <string name="max_selection_reached" formatted="false">You can only select %d items</string>
+</resources>
